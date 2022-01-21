@@ -1,0 +1,4 @@
+SIBA UTF8 Checker
+====================================
+
+Este proyecto define un servicio para comparar archivos resultantes de procesar con la herramienta dev2 bajo latin-1 y utf-8 
